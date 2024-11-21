@@ -64,7 +64,7 @@ baseurl: "/student_2025"
 ```make
 # Configuration, override port with usage: make PORT=4200
 PORT ?= 4100
-REPO_NAME ?= student_2025
+REPO_NAME ?= Grayson_2027
 LOG_FILE = /tmp/jekyll$(PORT).log
 ```
 
