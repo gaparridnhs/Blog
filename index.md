@@ -7,5 +7,4 @@ hide: true
 
 My journey starts here.
 
-
-Hello World. 
+Hello, my name is Grayson
