@@ -3,7 +3,7 @@ description: "Class of 2027"
 owner_name: Grayson Aparri
 github_username: gaparridnhs 
 github_repo: "aparri_2027" 
-baseurl: "/aparri_2027"
+# baseurl: "/aparri_2027"
 future: true
 remote_theme: jekyll/minima
 minima:
