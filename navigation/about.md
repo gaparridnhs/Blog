@@ -7,10 +7,9 @@ comments: true
 
 ## As a conversation Starter
 
-I havae only lived in San Diego and am in a family of 5.
+I have lived in San Diego all my life and am in a family of 5.
 
 I enjoy playing many videogames with my friends including Fortnite and Valorant
-
 
 I also enjoy traveling a lot and here are some pictures I took
 <img src="pic_trulli.jpg" alt="Italian Trulli">
