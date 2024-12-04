@@ -28,4 +28,4 @@ I have one brother and one sister.
 I’m an animal lover, and my favorite animal is a dog.  
 In sports, I participate in track and field. I prefer running short distances like the 100m, 200m, and 400m sprints, which are my favorites.  
 
-Thanks for stopping by!
+Thanks for stopping by
