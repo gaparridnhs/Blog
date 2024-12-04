@@ -5,23 +5,27 @@ permalink: /about/
 comments: true
 ---
 
-## As a conversation Starter
+## About Me
 
-I have lived in San Diego all my life and am in a family of 5.
+I’ve lived in San Diego my whole life and come from a family of five.  
 
-I enjoy playing many videogames with my friends including Fortnite and Valorant
+### My Hobbies
+I enjoy playing video games with my friends, especially *Fortnite* and *Valorant*.  
+Traveling is another passion of mine, and here are some of my favorite moments:  
 
-I also enjoy traveling a lot and here are some pictures I took
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="pic_trulli.jpg" alt="Beautiful Italian Trulli" style="width:50%; border-radius:10px;">
 
-I have only been out of the continent traveling to England and Paris
-<image src= "https://sololearnassets.azureedge.net/eiffel-tower.jpg" alt=width="30%">
+I’ve traveled outside the continent only twice, visiting England and Paris:  
 
-I enjoy many animals and my favorite animal is a dog
+<img src="https://sololearnassets.azureedge.net/eiffel-tower.jpg" alt="Eiffel Tower in Paris" style="width:30%; border-radius:10px;">
 
-I have one brother and one sister
-My sister a senior in Del Norte while my brother is in college at Rutgers
+### Family Life
+I have one brother and one sister.  
+- My sister is a senior at Del Norte High School.  
+- My brother is currently studying in college at Rutgers.  
 
-Some sports that I play is track and field and I prefer to run short distances
-Some examples are the 100s, 200s, and 400s. Those are my favorite distances in track
+### Interests
+I’m an animal lover, and my favorite animal is a dog.  
+In sports, I participate in track and field. I prefer running short distances like the 100m, 200m, and 400m sprints, which are my favorites.  
 
+Thanks for stopping by!
