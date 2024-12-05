@@ -13,7 +13,9 @@ I’ve lived in San Diego my whole life and come from a family of five.
 I enjoy playing video games with my friends, especially *Fortnite* and *Valorant*.  
 Traveling is another passion of mine, and here are some of my favorite moments:  
 
-<img src="pic_trulli.jpg" alt="Beautiful Italian Trulli" style="width:50%; border-radius:10px;">
+- Eating food and the baguettes at paris are really good
+- Going on the London Eye
+- Visiting my grandma on the Eiffel Tower in Paris
 
 I’ve traveled outside the continent only twice, visiting England and Paris:  
 
